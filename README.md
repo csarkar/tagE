@@ -6,6 +6,6 @@ tagE: Enabling an Embodied Agent to Understand Human Instruction
 
 Chayan Sarkar, Avik Mitra, Pradip Pramanick, and Tapas Nayak
 
-
+The article published in EMNLP '23 Findings is available here: https://arxiv.org/pdf/2310.15605.pdf
 
 The dataset would be released soon.
